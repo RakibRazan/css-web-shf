@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta http-eqiv="X-UA-Compatible" content="IE=edge">
+	<!-- custom css file link -->
+	<link rel="stylesheet" href="css/style.css">
+	<meta>
+</head>
+<body>
+<div class="container">
+	<h1 class="heading">Our Services</h1>
+	<div class="box-container">
+		<div class="box">
+			<img src="https://cdn-icons-png.flaticon.com/512/152/152843.png">
+			<h3>HTML 5</h3>
+			<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+			<a href="#" class="btn">read more</a>
+		</div>
+		
+		<div class="box">
+			<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
+			<h3>CSS 3</h3>
+			<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+			<a href="#" class="btn">read more</a>
+		</div>
+		
+		<div class="box">
+			<img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png">
+			<h3>JavaScript</h3>
+			<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+			<a href="#" class="btn">read more</a>
+		</div>
+	</div>
+	
+	<div class="box">
+			<img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png">
+			<h3>SaaS</h3>
+			<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+			<a href="#" class="btn">read more</a>
+		</div>
+	</div>
+	
+	<div class="box">
+			<img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png">
+			<h3>Jquery</h3>
+			<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+			<a href="#" class="btn">read more</a>
+		</div>
+	</div>
+	
+	<div class="box">
+			<img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png">
+			<h3>React.js</h3>
+			<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+			<a href="#" class="btn">read more</a>
+		</div>
+	</div>
+	
+	<div class="box">
+			<img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png">
+			<h3>Python</h3>
+			<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+			<a href="#" class="btn">read more</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
