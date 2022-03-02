@@ -12,6 +12,27 @@ p{
 	margin: 5px;
 	padding: 5px;
 }
+/* Navigation Bar */
+.navbar{
+	list-style-type:none;
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	background-color: #dddddd;
+}
+li{
+	float:left;
+}
+li a{
+	display:block;
+	padding:14px 16px;
+	text-align:center;
+	text-decoration:none;
+}
+li a:hover{
+	background-color:green;
+	color:white;
+}
 /* This is blog div */
 .blog{
 	border: 2px solid #012BFC;
@@ -41,4 +62,7 @@ p{
 .blog-text:hover{
 	color:white;
 }
-
+.blog-main-heading{
+	background-color: black;
+	color:white;
+}
