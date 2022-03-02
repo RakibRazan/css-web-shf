@@ -2,6 +2,17 @@ body{
 	background-color: #EAFAE1;
 	font-family: 'Merriweather', serif;
 }
+
+h1{
+	font-family: 'Playfair Display', serif;
+	margin: 5px;
+	padding: 5px;
+}
+p{
+	margin: 5px;
+	padding: 5px;
+}
+/* This is blog div */
 .blog{
 	border: 2px solid #012BFC;
 	margin: 10px;
@@ -12,22 +23,22 @@ body{
 	overflow: scroll;
 }
 .blog:hover{
-	background-color:#D5DBDB;
+	background-color:black;
+	color: white;
 }
-h1{
-	font-family: 'Playfair Display', serif;
-	margin: 5px;
-	padding: 5px;
-}
-p{
-	margin: 5px;
-	padding: 5px;
-}
+
+/* Blog contents */
 .blog-heading{
 	background-color: aquamarine;
 	position: sticky;
 	top:0;
+	color: black;
 }
 .blog-heading:hover{
-	color:red;
+	color: white;
+	Background-color: green;
 }
+.blog-text:hover{
+	color:white;
+}
+
