@@ -5,8 +5,8 @@ body{
 
 h1{
 	font-family: 'Playfair Display', serif;
-	margin: 5px;
-	padding: 5px;
+	margin: 0px;
+	padding: 0px;
 }
 p{
 	margin: 5px;
@@ -19,9 +19,15 @@ p{
 	margin:0;
 	padding:0;
 	background-color: #dddddd;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	display:block;
+	z-index: 100;
 }
 li{
 	float:left;
+	border-right:1px solid #bbb;
 }
 li a{
 	display:block;
@@ -69,4 +75,6 @@ li a:hover:not(.active) {
 .blog-main-heading{
 	background-color: black;
 	color:white;
+	display:block;
+	margin:50px 0px 0px 0px;
 }
